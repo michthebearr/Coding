@@ -2820,6 +2820,8 @@ class Solution {
 
 200. Number of Islands
 
+// Method 1: BFS with Queue
+
 class Solution {
     private int m;
     private int n;
@@ -2862,7 +2864,13 @@ class Solution {
     }
 }
 
+// Method 2: DFS with Recursion or Stack
+
+
 #############################################################
+
+207. Course Schedule
+
 
 #############################################################
 
